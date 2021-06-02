@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589734282 source:c:\users\erdem\documents\prolab22\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+
